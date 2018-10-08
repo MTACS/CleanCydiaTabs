@@ -1,9 +1,9 @@
-Package: com.mtac.notabbarlabelsxi
-Name: NoTabBarLabelsXI
+Package: com.mtac.cleancydiatabs
+Name: CleanCydiaTabs
 Depends: mobilesubstrate
 Version: 0.0.1
 Architecture: iphoneos-arm
-Description: An awesome MobileSubstrate tweak!
+Description: Clean up Cydia's TabBar for iPhone X
 Maintainer: MTAC
 Author: MTAC
 Section: Tweaks

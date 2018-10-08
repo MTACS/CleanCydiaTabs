@@ -1,6 +1,12 @@
-# NoTabBarLabelsXI
+# CleanCydiaTabs
 
 Very simple tweak, iPhone X's rounded corners cut just enough off the labels to be annoying. MoveUpCydia is an alternative but unlike that this removes the labels *and* moves the icons down for a much cleaner look. 
+
+Direct download links:
+
+[Debug](https://github.com/MTACS/CleanCydiaTabs/blob/master/packages/com.mtac.cleancydiatabs_0.0.1-1%2Bdebug_iphoneos-arm.deb)
+
+[Release](https://github.com/MTACS/CleanCydiaTabs/blob/master/packages/com.mtac.cleancydiatabs_0.0.1_iphoneos-arm.deb)
 
 # Before
 
@@ -57,3 +63,9 @@ Very simple tweak, iPhone X's rounded corners cut just enough off the labels to 
 # Upcoming
 
 I plan to add a switch in Settings to enable/disable the tweak.
+
+# Source
+
+[Here](https://github.com/MTACS/CleanCydiaTabs/blob/master/Tweak.xm)
+
+

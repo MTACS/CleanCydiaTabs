@@ -1,10 +1,11 @@
 include $(THEOS)/makefiles/common.mk
 
-TWEAK_NAME = NoTabBarLabelsXI
-NoTabBarLabelsXI_FILES = Tweak.xm
-NoTabBarLabelsXI_FRAMEWORKS = CoreGraphics
+TWEAK_NAME = CleanCydiaTabs
+CleanCydiaTabs_FILES = Tweak.xm
+CleanCydiaTabs_FRAMEWORKS = CoreGraphics
 
 include $(THEOS_MAKE_PATH)/tweak.mk
+include $(THEOS_MAKE_PATH)/aggregate.mk
 
 after-install::
 	install.exec "killall -9 SpringBoard"

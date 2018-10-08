@@ -6,6 +6,27 @@ Very simple tweak, iPhone X's rounded corners cut just enough off the labels to 
 
 <a href="url"><img src="https://github.com/MTACS/MTACS.github.io/blob/master/images/tabbar.jpg" align="left" height="512" width="236" ></a>
 
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br> <!-- laziness -->
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
 # After
 
 <a href="url"><img src="https://github.com/MTACS/MTACS.github.io/blob/master/images/notabbar.jpg" align="left" height="512" width="236" ></a>

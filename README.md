@@ -63,3 +63,9 @@ Direct download links:
 # Upcoming
 
 I plan to add a switch in Settings to enable/disable the tweak.
+
+# Source
+
+[Here](https://github.com/MTACS/CleanCydiaTabs/blob/master/Tweak.xm)
+
+

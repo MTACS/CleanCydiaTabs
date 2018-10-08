@@ -6,7 +6,7 @@ Direct download links:
 
 [Debug](https://github.com/MTACS/CleanCydiaTabs/blob/master/packages/com.mtac.cleancydiatabs_0.0.1-1%2Bdebug_iphoneos-arm.deb)
 
-[Release]()
+[Release](https://github.com/MTACS/CleanCydiaTabs/blob/master/packages/com.mtac.cleancydiatabs_0.0.1_iphoneos-arm.deb)
 
 # Before
 

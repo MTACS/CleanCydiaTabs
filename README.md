@@ -26,6 +26,7 @@ Very simple tweak, iPhone X's rounded corners cut just enough off the labels to 
 <br>
 <br>
 <br>
+<br>
 
 # After
 

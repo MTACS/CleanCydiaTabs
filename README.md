@@ -4,7 +4,7 @@ Very simple tweak, iPhone X's rounded corners cut just enough off the labels to 
 
 # Before
 
-<a href="url"><img src="https://github.com/MTACS/MTACS.github.io/blob/master/images/tabbar.jpg" align="left" height="512" width="236" ></a>
+<a href="url"><img src="https://github.com/MTACS/MTACS.github.io/blob/master/images/tabbar.PNG" align="left" height="512" width="236" ></a>
 
 <br> <!-- #ifndef __LAZINESS -->
 <br>
@@ -30,7 +30,7 @@ Very simple tweak, iPhone X's rounded corners cut just enough off the labels to 
 
 # After
 
-<a href="url"><img src="https://github.com/MTACS/MTACS.github.io/blob/master/images/notabbar.jpg" align="left" height="512" width="236" ></a>
+<a href="url"><img src="https://github.com/MTACS/MTACS.github.io/blob/master/images/notabbar.PNG" align="left" height="512" width="236" ></a>
 
 <br> <!-- #ifndef __LAZINESS -->
 <br>

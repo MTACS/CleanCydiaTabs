@@ -4,11 +4,11 @@ Very simple tweak, iPhone X's rounded corners cut just enough off the labels to 
 
 # Before
 
-![Before Image](https://github.com/MTACS/MTACS.github.io/blob/master/images/tabbar.jpg)
+![Before Image](https://github.com/MTACS/MTACS.github.io/blob/master/images/tabbar.jpg {width=236px height=512px})
 
 # After
 
-![After Image](https://github.com/MTACS/MTACS.github.io/blob/master/images/notabbar.jpg)
+![After Image](https://github.com/MTACS/MTACS.github.io/blob/master/images/notabbar.jpg {width=236px height=512px})
 
 # Upcoming
 

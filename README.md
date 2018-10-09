@@ -4,9 +4,9 @@ Very simple tweak, iPhone X's rounded corners cut just enough off the labels to 
 
 Direct download links:
 
-[Debug](https://github.com/MTACS/CleanCydiaTabs/blob/master/packages/com.mtac.cleancydiatabs_0.0.1-1%2Bdebug_iphoneos-arm.deb)
+[Debug](https://github.com/MTACS/CleanCydiaTabs/blob/master/packages/com.mtac.cleancydiatabs_0.0.2-1%2Bdebug_iphoneos-arm.deb)
 
-[Release](https://github.com/MTACS/CleanCydiaTabs/blob/master/packages/com.mtac.cleancydiatabs_0.0.1_iphoneos-arm.deb)
+[Release](https://github.com/MTACS/CleanCydiaTabs/blob/master/packages/com.mtac.cleancydiatabs_0.0.2-1%2Bdebug_iphoneos-arm.deb)
 
 # Before
 

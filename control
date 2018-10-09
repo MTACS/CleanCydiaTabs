@@ -1,7 +1,7 @@
 Package: com.mtac.cleancydiatabs
 Name: CleanCydiaTabs
 Depends: mobilesubstrate
-Version: 0.0.1
+Version: 0.0.2
 Architecture: iphoneos-arm
 Description: Clean up Cydia's TabBar for iPhone X
 Maintainer: MTAC

@@ -12,14 +12,36 @@
 			<key>cell</key>
 			<string>PSSwitchCell</string>
 			<key>default</key>
-			<true/>
+			<false/>
 			<key>defaults</key>
 			<string>com.mtac.cctprefs</string>
 			<key>key</key>
-			<string>EnableSwitch</string>
+			<string>cctenable</string>
 			<key>label</key>
-			<string>Enable Tweak</string>
+			<string>Enabled</string>
+			<key>PostNotification</key>
+			<string>com.mtac.cctprefs/settingschanged</string>
 		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>label</key>
+			<string>Respring</string>
+			<key>footerAlignment</key>
+			<string>1</string>
+			<key>footerText</key>
+			<string>This may be required for some changes to take effect.</string>
+		</dict>
+		<dict>
+        <key>cell</key>
+        <string>PSButtonCell</string>
+        <key>label</key>
+        <string>Respring</string>
+        <key>id</key>
+        <string>respring</string>
+        <key>action</key>
+        <string>respring</string>
+    </dict>
 	</array>
 	<key>title</key>
 	<string>CleanCydiaTabs</string>

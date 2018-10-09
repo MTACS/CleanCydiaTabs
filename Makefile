@@ -1,5 +1,3 @@
-# TARGET = iphone:latest:10.0
-
 include $(THEOS)/makefiles/common.mk
 
 TWEAK_NAME = CleanCydiaTabs
@@ -11,4 +9,4 @@ SUBPROJECTS += cctprefs
 include $(THEOS_MAKE_PATH)/aggregate.mk
 
 after-install::
-	install.exec "killall -9 SpringBoard"
+	install.exec "killall -9 Cydia, killall -9 SpringBoard"
